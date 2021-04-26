@@ -1,0 +1,18 @@
+span{
+    font-size: 500px;
+    left: 32%;
+
+    top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(0, 110, 255);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border: none;
+}
+
